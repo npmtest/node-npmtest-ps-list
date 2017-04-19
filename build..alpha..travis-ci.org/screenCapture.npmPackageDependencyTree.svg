@@ -1,0 +1,37 @@
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ ps-list@3.1.0 </tspan>
+<tspan x="10" y="90">  ├── pify@2.3.0 </tspan>
+<tspan x="10" y="106">  ├─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="122">  │ └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="138">  └─┬ tasklist@2.1.0 </tspan>
+<tspan x="10" y="154">    ├─┬ neat-csv@1.1.0 </tspan>
+<tspan x="10" y="170">    │ ├─┬ concat-stream@1.6.0 </tspan>
+<tspan x="10" y="186">    │ │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="202">    │ │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="218">    │ │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="234">    │ │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="250">    │ │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="266">    │ │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="282">    │ │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="298">    │ │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="314">    │ │ └── typedarray@0.0.6 </tspan>
+<tspan x="10" y="330">    │ ├─┬ csv-parser@1.11.0 </tspan>
+<tspan x="10" y="346">    │ │ ├── generate-function@1.1.0 </tspan>
+<tspan x="10" y="362">    │ │ ├─┬ generate-object-property@1.2.0 </tspan>
+<tspan x="10" y="378">    │ │ │ └── is-property@1.0.2 </tspan>
+<tspan x="10" y="394">    │ │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="410">    │ │ └─┬ ndjson@1.5.0 </tspan>
+<tspan x="10" y="426">    │ │   ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="442">    │ │   ├── split2@2.1.1 </tspan>
+<tspan x="10" y="458">    │ │   └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="474">    │ │     └── xtend@4.0.1 </tspan>
+<tspan x="10" y="490">    │ └─┬ into-stream@2.0.1 </tspan>
+<tspan x="10" y="506">    │   └── from2@2.3.0 </tspan>
+<tspan x="10" y="522">    └── sec@1.0.0</tspan>
+</text>
+</svg>
